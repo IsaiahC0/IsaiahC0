@@ -3,7 +3,7 @@
 --- | --- | --- | --- |
 | GitHub | Introduction to GitHub Course | 100% | 6/13 |||
 | GitHub | GitHub Page Course | 100% | 6/13 |||
-| GitHub | Communicate Using Markdown | 0 | 6/13 |||
+| GitHub | Communicate Using Markdown | 100% | 6/13 |||
 | Python | Installation of Python, Python Packages, and Jupyter Notebook | 0 | 6/14 |||
 | Python | Python for Data Science Course | 0 | ? |||
 | Python | HackerRank Assignments | 0 | ? |||
